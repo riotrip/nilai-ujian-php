@@ -1,14 +1,14 @@
 # Nilai Ujian PHP
-This is a simple program created using a PHP programming language to manage and analyze exam grades.
+Ini adalah program sederhana yang dibuat menggunakan bahasa pemrograman PHP untuk mengelola dan menganalisis nilai ujian.
 
-This program allows users to input student exam grades and perform various analysis operations, such as calculating the average, finding the highest and lowest grades, and displaying the sorted list of grades.
+Program ini memungkinkan pengguna untuk memasukkan nilai ujian siswa dan melakukan berbagai operasi analisis, seperti menghitung rata-rata, mencari nilai tertinggi dan terendah, dan menampilkan daftar nilai yang diurutkan.
 
-The program can also save and load grade data from a file, enabling users to work with larger sets of grade data.
+Program ini juga dapat menyimpan dan memuat data nilai dari sebuah file, memungkinkan pengguna untuk bekerja dengan kumpulan data nilai yang lebih besar.
 
-The main features of this program include:
+Fitur utama dari program ini meliputi:
 
-Entering student exam grades.
-Calculating the average grade.
-Finding the highest and lowest grades.
-Displaying the sorted list of grades.
-Saving and loading grade data from a file.
+Memasuki nilai ujian siswa.
+Menghitung nilai rata-rata.
+Menemukan nilai tertinggi dan terendah.
+Menampilkan daftar nilai yang diurutkan.
+Menyimpan dan memuat data nilai dari file.
